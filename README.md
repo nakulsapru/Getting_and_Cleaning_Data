@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Project
-Author: tanmay shukla <br />
+Author: Nakul Sapru <br />
 
 ## Goal of the Project
 1. A tidy data set 
